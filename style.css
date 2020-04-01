@@ -45,4 +45,11 @@ em {
     color:#666;
 }
 
+.smallcaps {
+    font-variant: small-caps;
+}
+
+.allcaps {
+    text-transform: uppercase;
+}
 
